@@ -50,3 +50,4 @@ jobs:
           echo "Output file exists"
           echo "Output file contents:"
           cat output/employee_salary_report.csv
+          echo "Good Bye"
